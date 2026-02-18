@@ -1,1 +1,1 @@
-bad commit on master
+new function
