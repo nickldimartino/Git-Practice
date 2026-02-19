@@ -1,3 +1,5 @@
 function greet() {
-  return "Hello from master and feature";
+  more
+  more2
+  return "Time to stash";
 }
