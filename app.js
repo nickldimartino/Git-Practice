@@ -1,3 +1,3 @@
 function greet() {
-  return "Hello";
+  return "Hello from master";
 }
