@@ -3,5 +3,5 @@ function greet() {
 }
 
 function bye() {
-  return "Goodbye";
+  return "Goodbye updated";
 }
