@@ -1,7 +1,7 @@
 function greet() {
-  return "Hello updated";
+  return "Hello";
 }
 
 function bye() {
-  return "Goodbye updated";
+  return "Goodbye";
 }
