@@ -1,5 +1,5 @@
 function greet() {
-  return "Hello";
+  return "Hello updated";
 }
 
 function bye() {
